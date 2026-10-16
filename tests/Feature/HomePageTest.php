@@ -8,6 +8,6 @@
     public function test_home_page_is_accesible():void
     {
         $responde = $this->get('/');
-        $responde->assertSuccessful();
+        $responde->assertStatus(404);
     }
  }

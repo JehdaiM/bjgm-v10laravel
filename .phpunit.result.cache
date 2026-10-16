@@ -1,1 +1,1 @@
-{"version":2,"defects":[],"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.023,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.162,"Tests\\Feature\\HomePageTest::test_home_page_is_accesible":0.167}}
+{"version":2,"defects":{"Tests\\Feature\\HomePageTest::test_home_page_is_accesible":7},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.023,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.162,"Tests\\Feature\\HomePageTest::test_home_page_is_accesible":0.139}}
